@@ -10,4 +10,4 @@ class Solution:
 
     def relu(self, z: NDArray[np.float64]) -> NDArray[np.float64]:
         return np.maximum(0, z)
-        
+
